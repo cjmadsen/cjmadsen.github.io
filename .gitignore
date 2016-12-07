@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll and Ruby specific.
 .sass-cache
 _site/*
@@ -25,3 +26,19 @@ Thumbs.db
 
 # IntelliJ IDEA
 .idea/*
+=======
+*.gem
+*.sublime-project
+*.sublime-workspace
+.bundle
+.DS_Store
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+codekit-config.json
+example/_site
+Gemfile.lock
+node_modules
+npm-debug.log*
+>>>>>>> 98e21e791d5c7cfea13ae3defd1199b5c275ecad
