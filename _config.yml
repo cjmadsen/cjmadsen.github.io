@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Decision Prospectus"
 title_separator          : "-"
 name                     : "Christopher Madsen"
 description              : "What I'm up to these days"
-url                      : "cjmadsen.github.io"
+url                      : "https://cjmadsen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cjmadsen/cjmadsen.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -27,7 +27,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
