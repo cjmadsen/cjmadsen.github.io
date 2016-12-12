@@ -1,6 +1,6 @@
 ---
 title: "General Assembly"
-permalink: https://cjmadsen.github.io/GA
+permalink: /GA
 ---
 
 
